@@ -1,5 +1,5 @@
 # 페페 서버 정보
-<img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="https://i.imgur.com/bDhleH0.gifv" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 ## 배율
 
 ## 법률 (안읽으면 본인 책임)
