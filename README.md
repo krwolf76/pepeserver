@@ -1,5 +1,5 @@
 # 페페 서버 정보
-![Alt Text](http://www.sheawong.com/wp-content/uploads/2013/08/keephatin.gif)
+![Alt Text](https://i.imgur.com/bDhleH0.gif)
 ## 배율
 
 ## 법률 (안읽으면 본인 책임)
