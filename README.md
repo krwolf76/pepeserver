@@ -5,7 +5,7 @@
 ## 법률 (안읽으면 본인 책임)
 
 ## 후원
-https://github.com/krwolf76/pepeserver/blob/master/%ED%9B%84%EC%9B%90%20%EB%AA%A9%EB%A1%9D.md
+[후원 목록 이동](https://github.com/krwolf76/pepeserver/blob/master/%ED%9B%84%EC%9B%90%20%EB%AA%A9%EB%A1%9D.mdf)
 
 ## 명령어 목록
 
