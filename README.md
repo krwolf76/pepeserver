@@ -9,7 +9,7 @@
 * Pay to Win 이 아닌, Play to Win 을 지향 하고 있습니다.
 
 ## 법률 (안읽으면 본인 책임)
-[후원 법률 보기](https://github.com/krwolf76/pepeserver/blob/master/%EC%84%9C%EB%B2%84%20%EB%B2%95%EB%A5%A0.md)
+[법률 보기](https://github.com/krwolf76/pepeserver/blob/master/%EC%84%9C%EB%B2%84%20%EB%B2%95%EB%A5%A0.md)
 
 ## 후원
 [후원 목록 보기](https://github.com/krwolf76/pepeserver/blob/master/%ED%9B%84%EC%9B%90%20%EB%AA%A9%EB%A1%9D.mdf)
