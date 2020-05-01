@@ -12,7 +12,7 @@
 [법률 보기](https://github.com/krwolf76/pepeserver/blob/master/%EC%84%9C%EB%B2%84%20%EB%B2%95%EB%A5%A0.md)
 
 ## 후원
-[후원 목록 보기](https://github.com/krwolf76/pepeserver/blob/master/%ED%9B%84%EC%9B%90%20%EB%AA%A9%EB%A1%9D.mdf)
+[후원 목록 보기](https://github.com/krwolf76/wolfserver/blob/master/%ED%9B%84%EC%9B%90%20%EB%AA%A9%EB%A1%9D.md)
 
 ## 명령어 목록
 [명령어 목록 보기](https://github.com/krwolf76/pepeserver/blob/master/%EB%AA%85%EB%A0%B9%EC%96%B4.md)
