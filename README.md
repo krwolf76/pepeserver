@@ -1,6 +1,6 @@
 # 늑대 서버 정보
 ![Alt Text](https://i.imgur.com/fH1dk5D.gif)
-
+<iframe src="https://discordapp.com/widget?id=706230614776348782&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
 ## 배율
 * 10-50배 입니다. (왜 10-50배 냐면, 플레이어 가 노가다 를 하여 배율을 높히거나, 후원으로 배율을 높힐 수 있습니다.)
 
