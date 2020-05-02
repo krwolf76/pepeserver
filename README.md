@@ -2,7 +2,9 @@
 ![Alt Text](https://i.imgur.com/fH1dk5D.gif)   
 ## 배율
 * 10-50배 입니다. (왜 10-50배 냐면, 플레이어 가 노가다 를 하여 배율을 높히거나, 후원으로 배율을 높힐 수 있습니다.)
-
+https://discord.gg/yXMkyb
+[123](https://discord.gg/yXMkyb)
+![1234](https://discord.gg/yXMkyb)
 ## 정보
 * 서버는 PVP 서버 입니다.
 * Pay to Win 이 아닌, Play to Win 을 지향 하고 있습니다.
