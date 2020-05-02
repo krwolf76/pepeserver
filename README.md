@@ -13,7 +13,7 @@
     * 방어력: 1.5배 (확신X)
     
 ## 법전 [서버에서 플레이 할 경우 법전에 대해 암묵적으로 동의 합니다.]
-[법률 보기](https://github.com/krwolf76/pepeserver/blob/master/%EC%84%9C%EB%B2%84%20%EB%B2%95%EB%A5%A0.md)
+[법률 보기](https://github.com/krwolf76/wolfserver/blob/master/%EB%B2%95%EC%A0%84.md)
 
 ## 후원
 [후원 목록 보기](https://github.com/krwolf76/wolfserver/blob/master/%ED%9B%84%EC%9B%90%20%EB%AA%A9%EB%A1%9D.md)
