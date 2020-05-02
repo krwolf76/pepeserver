@@ -16,7 +16,7 @@
 [법률 보기](https://github.com/krwolf76/wolfserver/blob/master/%EB%B2%95%EC%A0%84.md)
 
 ## 후원
-[후원 목록 보기](https://github.com/krwolf76/wolfserver/blob/master/%ED%9B%84%EC%9B%90%20%EB%AA%A9%EB%A1%9D.md)
+[후원 목록 보기](https://github.com/krwolf76/wolfserver/blob/master/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8.md)
 
 ## 명령어 목록
 [명령어 목록 보기](https://github.com/krwolf76/pepeserver/blob/master/%EB%AA%85%EB%A0%B9%EC%96%B4.md)
